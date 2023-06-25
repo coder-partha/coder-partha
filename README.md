@@ -36,9 +36,9 @@ You can reach out to me via email: coderpartha@outlook.com. I'm open to collabor
 
 Connect with me on other platforms:
 
-🐦 Twitter: Follow me on Twitter for programming tips, project updates, and tech-related discussions.
+🐦 **Twitter**: Follow me on Twitter for programming tips, project updates, and tech-related discussions.
 
-💼 LinkedIn: Connect with me on LinkedIn to learn more about my professional background and experience.
+💼 **LinkedIn**: Connect with me on LinkedIn to learn more about my professional background and experience.
 
 Looking forward to connecting with you and sharing our love for Python and JavaScript! Happy coding! 🚀✨
 
